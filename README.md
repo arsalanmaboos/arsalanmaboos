@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arsalanmaboos
+- 👋 Hi, I’m Arsalan Maboos
 - 👀 I’m interested in Competetive Programming,Web Developement and App Developement
 - 🌱 I’m currently learning Web Developement
 - 💞️ I’m looking to collaborate on ...
